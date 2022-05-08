@@ -36,6 +36,7 @@ public class PositiveLoginTest extends TestBase{
         System.out.println("driver.getCurrentUrl() = " + driver.getCurrentUrl());
        // System.out.println("loginPage = " + loginPage);
 // deneme2
+        System.out.println("loginPage = " + loginPage);
     }
 
 }
