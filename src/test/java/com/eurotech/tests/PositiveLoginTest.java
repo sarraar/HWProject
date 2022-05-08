@@ -35,7 +35,8 @@ public class PositiveLoginTest extends TestBase{
         Assert.assertTrue(driver.getCurrentUrl().contains("https://www.saucedemo.com/inventory.html"));
         System.out.println("driver.getCurrentUrl() = " + driver.getCurrentUrl());
        // System.out.println("loginPage = " + loginPage);
-
+// deneme2
+        System.out.println("loginPage = " + loginPage);
     }
 
 }
